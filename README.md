@@ -6,7 +6,7 @@ Study Kit adds highlight-to-flashcard, a focus timer with site blocking, an exam
 # how to add the sparx autocompleter onto your chrome/brave extension
 · press extensions and manage extensions
 
-· toggle on developer tools which is in the top right corner
+· toggle on developer tools (which is in the top right corner)
 
 · click on load unpacked
 
