@@ -15,4 +15,30 @@ Study Kit adds highlight-to-flashcard, a focus timer with site blocking, an exam
 and woohoo, you have them in your chrome extension
 
 # MAKE SURE U ADD AN API KEY I RECOMMEND GEMINI OR OPENROUTER SINCE THEY ARE FREE BUT IF YOU ADD A PAID API KEY THATS COMPLETELY FINE BY ME IG
-have fun doing homework much easier with these tools!
+Claude
+paid
+
+Google Gemini
+has offered a free tier
+
+Mistral
+has offered a free tier
+
+OpenAI
+paid
+
+OpenRouter
+free model router
+
+Groq
+has offered a free tier
+
+xAI (Grok)
+paid
+
+Together AI
+check pricing
+
+Custom
+any OpenAI-style API (like firework api key)
+
