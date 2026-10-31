@@ -1,4 +1,4 @@
-WEBSITES: https://animated-gumption-7fc115.netlify.app https://taupe-llama-8b9e90.netlify.app
+sparx autocompleter website: https://animated-gumption-7fc115.netlify.app study kit website: https://taupe-llama-8b9e90.netlify.app
 
 # SPARX AUTOCOMPLEATER
 Two free Chrome/Brave study extensions. Hint Helper gives graduated hints for maths, science and English. 
