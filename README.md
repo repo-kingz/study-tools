@@ -1,5 +1,7 @@
 # SPARX AUTOCOMPLEATER
-Two free Chrome/Brave study extensions. Hint Helper gives graduated hints (never the answer) for maths, science and English. Study Kit adds highlight-to-flashcard, a focus timer with site blocking, an exam countdown new tab, notes and an essay helper. go onto the releases tab to get the auto completer and a study kit to help you study
+Two free Chrome/Brave study extensions. Hint Helper gives graduated hints for maths, science and English. 
+
+Study Kit adds highlight-to-flashcard, a focus timer with site blocking, an exam countdown new tab, notes and an essay helper. go onto the releases tab to get the auto completer and a study kit to help you study
 
 # how to add the sparx autocompleter onto your chrome/brave extension
 · press extensions and manage extensions
